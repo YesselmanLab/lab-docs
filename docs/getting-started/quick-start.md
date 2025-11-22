@@ -2,6 +2,14 @@
 
 Get up and running quickly with this guide.
 
+## Prerequisites
+
+Before starting, make sure you've completed:
+- Read the [Lab Guide / FAQ](faq.md) - Essential for all new members
+- Set up your [Development Environment](development-environment.md) if on macOS
+- Completed the [Installation Guide](installation.md)
+- Familiar with basic [Command Line](command-line-guide.md) usage (recommended)
+
 ## Your First Steps
 
 1. **Complete Installation**: Make sure you've followed the [installation guide](installation.md)
@@ -37,7 +45,15 @@ Get up and running quickly with this guide.
 
 ## Additional Resources
 
+### Getting Started Guides
+- [Lab Guide / FAQ](faq.md) - Lab rules and policies
+- [Development Environment](development-environment.md) - macOS setup guide
+- [Command Line Guide](command-line-guide.md) - Terminal basics
+- [Installation Guide](installation.md) - Software installation
+
+### Lab Documentation
 - [Research Projects](../research/projects.md)
 - [Protocols](../protocols/index.md)
+- [Lab Software](../lab-software/index.md)
 - [Lab Information](../lab-info/facilities.md)
 

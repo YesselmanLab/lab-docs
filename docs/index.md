@@ -8,6 +8,7 @@ Welcome to the comprehensive documentation for our lab! This site contains all t
 - [Lab Guide / FAQ](getting-started/faq.md) - **New members: Start here!** Essential rules and policies
 - [Research Projects](research/projects.md) - Learn about our ongoing research
 - [Protocols](protocols/index.md) - Experimental and computational protocols
+- [Lab Software](lab-software/index.md) - Detailed documentation for lab software tools
 - [Resources](resources/software.md) - Software, datasets, and references
 - [Lab Information](lab-info/facilities.md) - Lab facilities and contact information
 

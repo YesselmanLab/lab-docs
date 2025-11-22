@@ -127,6 +127,16 @@ Please post your schedule in the **`#student-schedules`** channel on Slack. You 
 
 ---
 
+## Related Guides
+
+Now that you've read the lab guide, check out these other Getting Started guides:
+
+- **[Development Environment Setup](development-environment.md)** - Set up your Mac with Homebrew, conda, and IDEs
+- **[Command Line Guide](command-line-guide.md)** - Learn terminal commands (essential for lab work)
+- **[Installation Guide](installation.md)** - Install lab-specific software and dependencies
+- **[Quick Start Guide](quick-start.md)** - Get started with immediate tasks
+- **[Getting Started Overview](overview.md)** - Return to the main getting started page
+
 ## Questions?
 
 If you have questions about any of these policies or need clarification, please reach out on Slack or during your one-on-one meetings.

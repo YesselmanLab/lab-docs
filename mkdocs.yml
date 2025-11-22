@@ -73,6 +73,8 @@ nav:
   - Getting Started:
     - getting-started/overview.md
     - getting-started/faq.md
+    - getting-started/development-environment.md
+    - getting-started/command-line-guide.md
     - getting-started/installation.md
     - getting-started/quick-start.md
   - Research:
@@ -83,6 +85,13 @@ nav:
     - protocols/index.md
     - protocols/experimental.md
     - protocols/computational.md
+  - Lab Software:
+    - lab-software/index.md
+    - lab-software/vienna.md
+    - lab-software/software-1.md
+    - lab-software/software-2.md
+    - lab-software/software-3.md
+    - lab-software/lab-tool-1.md
   - Resources:
     - resources/software.md
     - resources/datasets.md

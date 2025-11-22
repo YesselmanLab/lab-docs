@@ -2,6 +2,9 @@
 
 This guide will help you set up your environment for working in the lab.
 
+!!! tip "New to macOS Development?"
+    If you're setting up a development environment on macOS for the first time, see the [Development Environment Setup Guide](development-environment.md) for detailed instructions on installing Homebrew, conda, pip, and configuring IDEs like VS Code or Cursor.
+
 ## Prerequisites
 
 Before you begin, ensure you have:
@@ -55,6 +58,13 @@ python --version
 - **Solution**: Install pip or use `python -m pip` instead
 
 [Add more troubleshooting tips as needed]
+
+## Related Guides
+
+- **[Development Environment Setup](development-environment.md)** - Complete macOS setup with Homebrew, conda, and IDEs
+- **[Command Line Guide](command-line-guide.md)** - Learn terminal commands if you're new to the command line
+- **[Quick Start Guide](quick-start.md)** - Next steps after installation
+- **[Lab Guide / FAQ](faq.md)** - Lab rules and policies
 
 ## Next Steps
 
