@@ -1,0 +1,104 @@
+site_name: Lab Documentation
+site_description: Extensive documentation for the lab
+site_author: Lab Team
+site_url: https://yourusername.github.io/lab-docs/
+
+# Repository
+repo_name: lab-docs
+repo_url: https://github.com/yourusername/lab-docs
+edit_uri: edit/main/docs/
+
+# Theme
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.annotate
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+# Plugins
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - minify:
+      minify_html: true
+
+# Markdown extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+# Navigation
+nav:
+  - Home: index.md
+  - Getting Started:
+    - getting-started/overview.md
+    - getting-started/installation.md
+    - getting-started/quick-start.md
+  - Research:
+    - research/projects.md
+    - research/publications.md
+    - research/collaborations.md
+  - Protocols:
+    - protocols/index.md
+    - protocols/experimental.md
+    - protocols/computational.md
+  - Resources:
+    - resources/software.md
+    - resources/datasets.md
+    - resources/references.md
+  - Lab Information:
+    - lab-info/team.md
+    - lab-info/facilities.md
+    - lab-info/contact.md
+  - About: about.md
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/yourusername
+  version:
+    provider: mike
+
