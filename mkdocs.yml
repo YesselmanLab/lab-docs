@@ -77,10 +77,6 @@ nav:
     - getting-started/command-line-guide.md
     - getting-started/installation.md
     - getting-started/quick-start.md
-  - Research:
-    - research/projects.md
-    - research/publications.md
-    - research/collaborations.md
   - Protocols:
     - protocols/index.md
     - protocols/experimental.md
@@ -96,9 +92,6 @@ nav:
     - resources/software.md
     - resources/datasets.md
     - resources/references.md
-  - Lab Information:
-    - lab-info/facilities.md
-    - lab-info/contact.md
   - About: about.md
 
 # Extra

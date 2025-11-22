@@ -52,8 +52,6 @@ Before starting, make sure you've completed:
 - [Installation Guide](installation.md) - Software installation
 
 ### Lab Documentation
-- [Research Projects](../research/projects.md)
 - [Protocols](../protocols/index.md)
 - [Lab Software](../lab-software/index.md)
-- [Lab Information](../lab-info/facilities.md)
 

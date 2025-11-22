@@ -48,7 +48,6 @@ For general installation instructions, see the [Getting Started - Installation](
 
 - Check the individual software documentation pages
 - Ask questions in lab meetings
-- Contact: [Contact Information](../lab-info/contact.md)
 
 ## Contributing
 

@@ -28,7 +28,7 @@ Vienna is a Python wrapper for ViennaRNA tools, providing an easy-to-use interfa
 The easiest way to install Vienna in a Jupyter environment is using conda, which handles both ViennaRNA and the Python package:
 
 ```bash
-# Create a new conda environment with ViennaRNA
+# Create a new conda environment with ViennaRNA, only if you dont already have one
 conda create -n vienna-env -c bioconda viennarna python=3.10 jupyter
 
 # Activate the environment
