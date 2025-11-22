@@ -1,4 +1,16 @@
-# Lab Documentation
+<div align="center">
+
+# 📚 Lab Documentation
+
+## [👉 View Full Documentation Site 👈](https://yesselmanlab.github.io/lab-docs/)
+
+**This repository contains the source files for the documentation.**
+
+**The actual documentation site is hosted at: [yesselmanlab.github.io/lab-docs](https://yesselmanlab.github.io/lab-docs/)**
+
+---
+
+</div>
 
 This repository contains comprehensive documentation for the lab, built with [MkDocs](https://www.mkdocs.org/) and the [Material theme](https://squidfunk.github.io/mkdocs-material/).
 

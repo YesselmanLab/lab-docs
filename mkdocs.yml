@@ -1,11 +1,11 @@
 site_name: Lab Documentation
 site_description: Extensive documentation for the lab
 site_author: Lab Team
-site_url: https://yourusername.github.io/lab-docs/
+site_url: https://yesselmanlab.github.io/lab-docs/
 
 # Repository
 repo_name: lab-docs
-repo_url: https://github.com/yourusername/lab-docs
+repo_url: https://github.com/YesselmanLab/lab-docs
 edit_uri: edit/main/docs/
 
 # Theme
