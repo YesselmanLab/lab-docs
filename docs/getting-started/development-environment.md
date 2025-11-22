@@ -16,6 +16,9 @@ This guide will walk you through setting up a complete Python development enviro
 
 Homebrew is a package manager for macOS that makes it easy to install development tools.
 
+!!! tip "Detailed Homebrew Guide"
+    For comprehensive Homebrew usage, best practices, and advanced techniques, see the [Homebrew Guide](development-tools/homebrew.md).
+
 ### Installation
 
 ```bash
@@ -67,6 +70,9 @@ which python3
 ## Step 3: Install Miniconda (Recommended)
 
 Miniconda is a minimal installer for conda. It's lighter than Anaconda and gives you full control.
+
+!!! tip "Detailed Conda Guide"
+    For comprehensive conda usage, best practices, environment management, and advanced techniques, see the [Conda Guide](development-tools/conda.md).
 
 ### Installation
 
@@ -637,6 +643,7 @@ brew search term                       # Search for packages
 
 Continue with these Getting Started guides:
 
+- **[Development Tools](development-tools/index.md)** - Detailed guides for [Homebrew](development-tools/homebrew.md) and [Conda](development-tools/conda.md)
 - **[Command Line Guide](command-line-guide.md)** - Learn terminal commands (essential after setting up your environment)
 - **[Installation Guide](installation.md)** - Install lab-specific software and dependencies
 - **[Lab Guide / FAQ](faq.md)** - Lab rules, policies, and expectations

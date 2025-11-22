@@ -75,6 +75,10 @@ nav:
     - getting-started/faq.md
     - getting-started/development-environment.md
     - getting-started/command-line-guide.md
+    - Development Tools:
+      - getting-started/development-tools/index.md
+      - getting-started/development-tools/homebrew.md
+      - getting-started/development-tools/conda.md
     - getting-started/installation.md
     - getting-started/quick-start.md
   - Protocols:
@@ -89,6 +93,7 @@ nav:
     - lab-software/software-3.md
     - lab-software/lab-tool-1.md
   - Resources:
+    - resources/reading-guide.md
     - resources/software.md
     - resources/datasets.md
     - resources/references.md
