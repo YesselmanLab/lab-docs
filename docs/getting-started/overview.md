@@ -14,9 +14,10 @@ This documentation provides comprehensive information about:
 
 ## Next Steps
 
-1. **Installation**: Follow the [installation guide](installation.md) to set up your environment
-2. **Quick Start**: Check out the [quick start guide](quick-start.md) for immediate tasks
-3. **Explore**: Browse the documentation to familiarize yourself with our work
+1. **Lab Guide**: **All new members must read the [Lab Guide / FAQ](faq.md)** - This contains essential rules, policies, and expectations
+2. **Installation**: Follow the [installation guide](installation.md) to set up your environment
+3. **Quick Start**: Check out the [quick start guide](quick-start.md) for immediate tasks
+4. **Explore**: Browse the documentation to familiarize yourself with our work
 
 ## Need Help?
 

@@ -39,5 +39,5 @@ Get up and running quickly with this guide.
 
 - [Research Projects](../research/projects.md)
 - [Protocols](../protocols/index.md)
-- [Lab Information](../lab-info/team.md)
+- [Lab Information](../lab-info/facilities.md)
 

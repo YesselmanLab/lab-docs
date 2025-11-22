@@ -1,4 +1,4 @@
-site_name: Lab Documentation
+site_name: Yesselman Lab
 site_description: Extensive documentation for the lab
 site_author: Lab Team
 site_url: https://yesselmanlab.github.io/lab-docs/
@@ -72,6 +72,7 @@ nav:
   - Home: index.md
   - Getting Started:
     - getting-started/overview.md
+    - getting-started/faq.md
     - getting-started/installation.md
     - getting-started/quick-start.md
   - Research:
@@ -87,7 +88,6 @@ nav:
     - resources/datasets.md
     - resources/references.md
   - Lab Information:
-    - lab-info/team.md
     - lab-info/facilities.md
     - lab-info/contact.md
   - About: about.md
