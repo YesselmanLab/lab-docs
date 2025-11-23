@@ -2,13 +2,16 @@
 
 Welcome to the lab! This section will help you get oriented and set up.
 
-## Overview
+## Essential Guides
 
-1. **Lab Guide**: **All new members must read the [Lab Guide / FAQ](faq.md)** - This contains essential rules, policies, and expectations
-2. **Development Environment**: Set up your Mac development environment with [Homebrew, conda, and IDEs](development-environment.md)
-3. **Development Tools**: Learn how to use [Homebrew](development-tools/homebrew.md) and [Conda](development-tools/conda.md) effectively
-4. **Command Line**: Learn the command line from basics to advanced with our [Command Line Guide](command-line-guide.md)
-5. **Explore**: Browse the documentation to familiarize yourself with our work
+1. **Lab Guide**: **All new members must read the [Lab Guide](guide.md)** - This contains essential rules, policies, and expectations.
+2. **FAQ**: Check the [Lab FAQ](faq.md) for answers to common questions about lab policies and procedures.
+
+## Getting started doing computational work
+
+1. **Development Environment**: Set up your Mac development environment with [Homebrew, conda, and IDEs](development-environment.md)
+2. **Development Tools**: Learn how to use [Homebrew](development-tools/homebrew.md) and [Conda](development-tools/conda.md) effectively
+3. **Command Line**: Learn the command line from basics to advanced with our [Command Line Guide](command-line-guide.md)
 
 ## Getting Started Guides
 

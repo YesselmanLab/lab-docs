@@ -79,6 +79,11 @@ nav:
     - Development Tools:
       - getting-started/development-tools/index.md
       - getting-started/development-tools/homebrew.md
+      - getting-started/development-tools/iterm2.md
+      - getting-started/development-tools/git.md
+      - getting-started/development-tools/ssh-keys.md
+      - getting-started/development-tools/vscode-cursor.md
+      - getting-started/development-tools/jupyter.md
       - getting-started/development-tools/conda.md
       - getting-started/development-tools/zshrc.md
       - getting-started/development-tools/oh-my-zsh.md
@@ -87,8 +92,12 @@ nav:
     - getting-started/quick-start.md
   - Protocols:
     - protocols/index.md
-    - protocols/experimental.md
-    - protocols/computational.md
+    - protocols/pcr.md
+    - protocols/primer-assembly.md
+    - protocols/sample-preparation.md
+    - protocols/data-collection.md
+    - protocols/data-preprocessing.md
+    - protocols/analysis-pipeline.md
   - Lab Software:
     - lab-software/index.md
     - lab-software/vienna.md

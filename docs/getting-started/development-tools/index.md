@@ -5,6 +5,11 @@ This section contains comprehensive guides for essential development tools used 
 ## Tools that you should be using
 
 - **[Homebrew](homebrew.md)** - macOS package manager for installing system tools and applications
+- **[iTerm2](iterm2.md)** - Powerful terminal emulator for macOS with advanced features
+- **[Git](git.md)** - Version control system for tracking code changes and collaboration
+- **[SSH Keys](ssh-keys.md)** - Secure authentication for remote servers, GitHub, and GitLab
+- **[VS Code/Cursor](vscode-cursor.md)** - Code editors with Python support, debugging, and AI features
+- **[Jupyter](jupyter.md)** - Interactive notebooks for data science and research
 - **[Conda](conda.md)** - Python package and environment management system
 - **[Zsh Configuration (.zshrc)](zshrc.md)** - Configure your shell environment and customize your terminal
 - **[Oh My Zsh](oh-my-zsh.md)** - Framework for managing zsh configuration with themes and plugins
@@ -19,12 +24,26 @@ Use Homebrew for:
 - Development tools not language-specific
 - System services (PostgreSQL, Redis, etc.)
 
+### Git
+Use Git for:
+- Version control and tracking code changes
+- Collaboration with team members
+- Managing project history
+- Integration with GitHub/GitLab
+
 ### Conda
 Use Conda for:
 - Python package management
 - Creating isolated Python environments
 - Managing multiple Python versions
 - Scientific computing packages
+
+### Jupyter
+Use Jupyter for:
+- Interactive data analysis and exploration
+- Combining code, visualizations, and documentation
+- Sharing research notebooks
+- Prototyping and experimentation
 
 ## Related Guides
 

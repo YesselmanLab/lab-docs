@@ -4,15 +4,15 @@ This section contains detailed protocols for experimental and computational work
 
 ## Experimental Protocols
 
-- [General Experimental Guidelines](experimental.md)
-- [Protocol 1: Sample Preparation](experimental.md#protocol-1)
-- [Protocol 2: Data Collection](experimental.md#protocol-2)
+- **[PCR](pcr.md)** - Polymerase Chain Reaction for DNA amplification
+- **[Primer Assembly](primer-assembly.md)** - Constructing DNA/RNA sequences from oligonucleotides
+- **[Sample Preparation](sample-preparation.md)** - Standard sample preparation procedures
+- **[Data Collection](data-collection.md)** - Data collection and recording procedures
 
 ## Computational Protocols
 
-- [General Computational Guidelines](computational.md)
-- [Protocol 1: Data Preprocessing](computational.md#protocol-1)
-- [Protocol 2: Analysis Pipeline](computational.md#protocol-2)
+- **[Data Preprocessing](data-preprocessing.md)** - Standard data preprocessing pipeline
+- **[Analysis Pipeline](analysis-pipeline.md)** - Standard analysis workflow
 
 ## Protocol Standards
 
