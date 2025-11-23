@@ -24,14 +24,14 @@ Follow the on-screen instructions. After installation, you may need to add Homeb
 #### For Apple Silicon Macs (M1/M2/M3)
 
 ```bash
-echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zshrc
 eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
 #### For Intel Macs
 
 ```bash
-echo 'eval "$(/usr/local/bin/brew shellenv)"' >> ~/.zprofile
+echo 'eval "$(/usr/local/bin/brew shellenv)"' >> ~/.zshrc
 eval "$(/usr/local/bin/brew shellenv)"
 ```
 
@@ -362,12 +362,12 @@ fi
 **Solution**:
 ```bash
 # Add to PATH (Apple Silicon)
-echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
-source ~/.zprofile
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zshrc
+source ~/.zshrc
 
 # Or (Intel)
-echo 'eval "$(/usr/local/bin/brew shellenv)"' >> ~/.zprofile
-source ~/.zprofile
+echo 'eval "$(/usr/local/bin/brew shellenv)"' >> ~/.zshrc
+source ~/.zshrc
 ```
 
 ### Issue: Permission Denied

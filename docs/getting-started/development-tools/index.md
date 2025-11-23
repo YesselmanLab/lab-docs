@@ -2,10 +2,13 @@
 
 This section contains comprehensive guides for essential development tools used in the lab.
 
-## Available Guides
+## Tools that you should be using
 
 - **[Homebrew](homebrew.md)** - macOS package manager for installing system tools and applications
 - **[Conda](conda.md)** - Python package and environment management system
+- **[Zsh Configuration (.zshrc)](zshrc.md)** - Configure your shell environment and customize your terminal
+- **[Oh My Zsh](oh-my-zsh.md)** - Framework for managing zsh configuration with themes and plugins
+- **[HCC Clusters](hcc-cluster.md)** - Guide to using Holland Computing Center high-performance computing resources
 
 ## Quick Overview
 

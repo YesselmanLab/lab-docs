@@ -30,11 +30,11 @@ Follow the on-screen instructions. After installation, you may need to add Homeb
 
 ```bash
 # For Apple Silicon Macs (M1/M2/M3)
-echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zshrc
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 # For Intel Macs
-echo 'eval "$(/usr/local/bin/brew shellenv)"' >> ~/.zprofile
+echo 'eval "$(/usr/local/bin/brew shellenv)"' >> ~/.zshrc
 eval "$(/usr/local/bin/brew shellenv)"
 ```
 

@@ -45,7 +45,7 @@ Group meetings are not a punishment and should be an active participation event 
 
 Accurate and up-to-date recordkeeping is a requirement for everyone in the lab. If you are performing experiments, please use the designated digital protocols. When a protocol changes, make sure the update is entered. If you deviate from a protocol, note the change clearly in your records. All gel images and experimental results should be uploaded to the digital sheets promptly.
 
-### How to Send Documents
+### How to Name / Send Documents
 
 All documents sent to me should be in the format: **`DATE_YOUR_INITIALS_TITLE`**
 
@@ -126,16 +126,6 @@ Please post your schedule in the **`#student-schedules`** channel on Slack. You 
 **Yes**, if you let me know very much in advance (like weeks in advance). Everyone needs a break at some point. **All students get 2 weeks of vacation per year excluding federal holidays.**
 
 ---
-
-## Related Guides
-
-Now that you've read the lab guide, check out these other Getting Started guides:
-
-- **[Development Environment Setup](development-environment.md)** - Set up your Mac with Homebrew, conda, and IDEs
-- **[Command Line Guide](command-line-guide.md)** - Learn terminal commands (essential for lab work)
-- **[Installation Guide](installation.md)** - Install lab-specific software and dependencies
-- **[Quick Start Guide](quick-start.md)** - Get started with immediate tasks
-- **[Getting Started Overview](overview.md)** - Return to the main getting started page
 
 ## Questions?
 

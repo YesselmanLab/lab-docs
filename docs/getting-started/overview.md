@@ -4,15 +4,6 @@ Welcome to the lab! This section will help you get oriented and set up.
 
 ## Overview
 
-This documentation provides comprehensive information about:
-
-- Lab setup and installation procedures
-- Experimental and computational protocols
-- Available resources and tools
-- Lab policies and procedures
-
-## Next Steps
-
 1. **Lab Guide**: **All new members must read the [Lab Guide / FAQ](faq.md)** - This contains essential rules, policies, and expectations
 2. **Development Environment**: Set up your Mac development environment with [Homebrew, conda, and IDEs](development-environment.md)
 3. **Development Tools**: Learn how to use [Homebrew](development-tools/homebrew.md) and [Conda](development-tools/conda.md) effectively

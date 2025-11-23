@@ -79,6 +79,9 @@ nav:
       - getting-started/development-tools/index.md
       - getting-started/development-tools/homebrew.md
       - getting-started/development-tools/conda.md
+      - getting-started/development-tools/zshrc.md
+      - getting-started/development-tools/oh-my-zsh.md
+      - getting-started/development-tools/hcc-cluster.md
     - getting-started/installation.md
     - getting-started/quick-start.md
   - Protocols:
@@ -94,6 +97,7 @@ nav:
     - lab-software/lab-tool-1.md
   - Resources:
     - resources/reading-guide.md
+    - resources/how-to-read-papers.md
     - resources/software.md
     - resources/datasets.md
     - resources/references.md

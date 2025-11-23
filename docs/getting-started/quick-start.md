@@ -10,18 +10,6 @@ Before starting, make sure you've completed:
 - Completed the [Installation Guide](installation.md)
 - Familiar with basic [Command Line](command-line-guide.md) usage (recommended)
 
-## Your First Steps
-
-1. **Complete Installation**: Make sure you've followed the [installation guide](installation.md)
-
-2. **Run Your First Experiment**:
-   ```bash
-   # Add example commands
-   python run_experiment.py
-   ```
-
-3. **Access Resources**: Check out available [software](../resources/software.md) and [datasets](../resources/datasets.md)
-
 ## Common Tasks
 
 ### Running Experiments
