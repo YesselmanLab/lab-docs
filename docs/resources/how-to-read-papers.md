@@ -43,6 +43,7 @@ Scientific papers are not novels—you should read them multiple times, each tim
 
 1. **Read the Methods section carefully**
 2. **For each experiment, understand:**
+   - Do I understand how the expeiment was performed? 
    - What was the experimental design?
    - What controls were used?
    - What were the conditions?
@@ -574,8 +575,8 @@ For a paper's main hypothesis:
 
 - **[Lab Guide FAQ](../getting-started/faq.md#how-to-read-scientific-papers)** - Quick reference on reading papers
 - **[RNA Structure Reading Guide](reading-guide.md)** - Structured reading sequence for RNA papers
-- **How to Read a Paper** (Keshav, 2007) - Classic three-pass approach
-- **Ten Simple Rules for Reading a Scientific Paper** (Carey et al., 2020) - PLOS Computational Biology
+- **[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273496.1273499)** (Keshav, 2007) - Classic three-pass approach
+- **[Ten Simple Rules for Reading a Scientific Paper** (Carey et al., 2020) - PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007517)
 
 ---
 

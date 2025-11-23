@@ -72,6 +72,7 @@ nav:
   - Home: index.md
   - Getting Started:
     - getting-started/overview.md
+    - getting-started/guide.md
     - getting-started/faq.md
     - getting-started/development-environment.md
     - getting-started/command-line-guide.md
