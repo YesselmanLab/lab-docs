@@ -156,11 +156,11 @@ All graduate students will present at group meeting. Please make sure your talks
 
 ### Reading Papers
 
-All graduate students should be reading papers often. Generally, graduate students who succeed read **1-2 papers a week, every week**.
+All graduate students are expected to read papers regularly—this is not optional if you want to progress in your own research. Science does not happen in a vacuum: nearly every problem or obstacle you will face in your work has been encountered and solved (or at least discussed) by someone else before. Reading the literature allows you to learn from others’ successes and mistakes, discover new ideas and techniques, and avoid wasting time reinventing the wheel. Students who do not make a habit of reading simply do not move forward with their own research—lack of exposure leads to stalled projects and missed opportunities. Generally, successful graduate students read **1-2 papers per week, every week**. Make reading a routine part of your week, and prioritize engaging deeply with current and relevant literature in your field.
 
 ### Conference Presentations
 
-I expect all graduate students to **present at least one conference a year**. This is important as it practices your ability to communicate research to other people. Please discuss with me what conferences would work or find ones that may be interesting.
+All graduate students are expected to **present their research atone conference each year**. Presenting at conferences is a valuable opportunity to develop your scientific communication skills, receive feedback, and network with others in your field. Please consult with me to identify suitable conferences or to discuss any events you are interested in attending.
 
 ---
 
